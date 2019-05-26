@@ -1,0 +1,5 @@
+1) Only Capomulin and Ramicane worked, assuming your goal was to reduce tumor size. Everything else resulted in the tumor volume increasing in size over 45 days. Did the other drugs do nothing? Maybe. Did the other drugs actually contribute to increasing tumor size when the tumor would've remained stagnant otherwise? You can't disprove this. 
+
+2) Look at the metastatic graph, all of the tumors metastasized, which is absolutely horrifying. Like above, Capo and Rami performed the best by having the least amount of tumor metastasis but wow, they are all pretty ineffective when it comes to stopping tumor metastasizing. Which should start at some number X and end at zero. Or at least X. 
+
+3) Looking at the mice survival rate, we can see that Capo and Rami are actually terrible at killing mice with cancer. The other drugs performed fantastically, and mortality rate was easily at 50% or more. Capo and Rami couldn't even reach a 40% mortality rate when combined!
